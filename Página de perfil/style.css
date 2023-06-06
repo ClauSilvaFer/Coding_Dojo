@@ -1,0 +1,157 @@
+.nav {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
+.a {
+    text-decoration: none;
+    color: white;
+}
+
+.li {
+    list-style: none;
+    margin: 10px;
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+}
+
+.button {
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+}
+.container {
+    display: flex; 
+    flex-direction: column;
+    position: relative;
+    margin-left: 100px;
+    margin-top: 20px;
+    border-style: ridge;
+}
+
+.barra {
+    background-color: cadetblue;
+    height: 100px;
+}
+
+.circle {
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    top: 50px;
+    left: 30px;
+}
+
+.jane {
+    margin-top: 40px;
+    margin-bottom: 0px;
+    
+}
+
+.seatle {
+    height: 15px;
+    width: 10px;
+    margin-right: 10px;
+    
+}
+
+.container2 {
+    padding-left: 20px;
+}
+
+.contseatle {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.barra2 {
+    display: flex;
+    background-color: black;
+    color: white;
+    margin-left: 100px;
+    margin-top: 20px;
+    border-style: ridge;
+    width: 50%;
+}
+
+.barra3 {
+    display: flex;
+    background-color: black;
+    color: white;
+    margin-left: 100px;
+    margin-top: 20px;
+    border-style: ridge;
+    width: 82%;
+}
+
+.education {
+    margin: 20px;
+}
+
+.container3 {
+    height: 400px;
+}
+
+.coding {
+    display: flex;
+    align-items: center;
+    font-weight: normal;
+    margin-left: 20px;
+}
+
+.divedu {
+    margin-left: 100px;
+    border-style: ridge;
+}
+
+.connect {
+    border-style: ridge;
+    margin-left: 100px;
+    width: 50%;
+    }
+
+.persona{
+    align-items: center;
+    justify-items: center;
+}
+
+.col-izq{
+    display: inline-block;
+    vertical-align: top;
+    width: 45%;
+}
+
+.col-der{
+    vertical-align: top;
+    display: inline-block;
+    width: 35%;
+    }
+
+.container4 {
+    padding-bottom: 50px;
+}
+
+.connect2 {
+    height: 230px;
+    border-style: ridge;
+    margin-left: 100px;
+    width: 50%;
+}
+
+.img {
+    height: 30px;
+    margin-left: 20px;
+}
+
+.icono {
+    width: 10%;
+    align-content: space-between;
+}
+

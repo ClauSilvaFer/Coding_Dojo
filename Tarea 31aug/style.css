@@ -1,0 +1,30 @@
+.container{
+    padding: 50px;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button1 {
+    width: 80px;
+    height: 40px;
+    background-color: bisque;
+}
+
+.button2 {
+    width: 80px;
+    height: 40px;
+    background-color: blueviolet;
+}
+
+.button3 {
+    width: 80px;
+    height: 40px;
+    background-color: darksalmon;
+}
+
+.button4 {
+    width: 80px;
+    height: 40px;
+    background-color: hotpink;
+}

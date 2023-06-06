@@ -1,0 +1,131 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.nav {
+    background-color: darkgrey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: 'Lucida Sans';
+}
+
+.button1 {
+    background-color: rgb(38, 94, 197);
+    color: white;
+    margin-right: 20px;
+    font-family: 'Lucida Sans';
+}
+
+.h1 {
+    margin-left: 20px;
+    font-family: 'Lucida Sans';
+}
+
+.main1 {
+    margin-left: 200px;
+    margin-right: 20px;
+    border-color: black;
+    border-style: solid;
+    margin-top: 30px;
+    display: flex
+}
+
+.p2 {
+    margin-top: 70px;
+    text-align: left;
+    font-family: 'Lucida Sans';
+}
+
+.submain1 {
+    display: block;
+    padding: 10px;
+    height: 170px;
+    width: 210px;
+}
+
+.submain2 {
+    display: block;
+    padding: 10px;
+    height: 170px;
+    width: 230px;
+    text-align: center;
+}
+
+.h2 {
+    margin-left: 20px;
+    font-family: 'Lucida Sans';
+}
+
+.p1 {
+    margin-left: 30px;
+    font-family: 'Lucida Sans';
+}
+
+.button2 {
+    background-color: rgb(241, 219, 21);
+    margin-left: 20px;
+    margin-bottom: 20px;
+    font-family: 'Lucida Sans';
+}
+
+.main2 {
+    margin-left: 200px;
+    border-color: black;
+    border-style: solid;
+    margin-top: 30px;
+    display: inline-block;
+    vertical-align: top;
+    width: 70%;
+    height: 180px;
+}
+
+.row {
+    border-color: black;
+    border-style: solid;
+    vertical-align: top;
+    display: inline-block;
+    margin-top: 30px;
+    width: 290px;
+    height: 140px;
+}
+
+.colum-der {
+    vertical-align: top;
+    display: inline-block;
+    width: 60%;
+}
+
+.colum-izq {
+    vertical-align: top;
+    display: inline-block;
+    width: 35%;
+}
+
+.h3 {
+    padding-left: 20px;
+    padding-top: 10px;
+    font-family: 'Lucida Sans';
+}
+
+.button3 {
+    background-color: rgb(161, 208, 82);
+    margin-left: 30px;
+    font-family: 'Lucida Sans';
+    justify-content: center;
+}
+
+.boton{
+    width: 150px;
+    height: 30px;
+}
+
+span{
+    text-decoration: underline;
+    color: blue; 
+}

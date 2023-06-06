@@ -1,0 +1,43 @@
+.container{
+    width: 950px;
+    background-color: whitesmoke;
+    margin: 0px auto;
+    padding: 50px;
+    border-top: 5px black solid;
+}
+
+.txt {
+    text-align: center;
+}
+
+.catimg {
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+}
+
+.centrarimg {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.catmedio{
+    margin: 60px;
+}
+
+.color1{
+    background-color: aqua;
+}
+
+.color2{
+    background-color: lightpink;
+}
+
+.color3{
+    background-color: white;
+}
+
+.distancia{
+    margin: 20px;
+}
